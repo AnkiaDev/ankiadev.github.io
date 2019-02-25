@@ -6,17 +6,19 @@ html {
 
 body {
 	font-family: 'Montserrat', sans-serif;
+}
+
+header.bckgrnd {
 	background-image: url(wallpaper.jpg);
 	background-size: cover;
 	background-position: center;
-
+	height: 100%;
 }
 
 h1 {
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
 	color: white;
-	margin-top: 10%;
 	font-size: 2.5em;
 
 	/* Title opacity animation */
